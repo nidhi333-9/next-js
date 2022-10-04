@@ -1,0 +1,13 @@
+.title {
+    margin: 40px 100px 10px;
+    color: #333;
+    padding-bottom: 20px;
+    text-align: left;
+}
+
+.text {
+    color: #777;
+    margin: auto 100px;
+    padding-bottom: 30px;
+    text-align: left;
+}

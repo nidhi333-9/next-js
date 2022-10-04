@@ -4,10 +4,11 @@
   margin: 0;
   padding: 0;
   font-family: 'Nunito', sans-serif;
+  background: rgba(240, 240, 240, 0.171);
 }
 
 nav {
-  margin: 10px 80px;
+  margin: 0px 80px;
   padding: 20px;
   display: flex;
   justify-content: flex-end;
@@ -24,15 +25,7 @@ nav .logo {
   margin-right: auto;
 }
 
-.content {
-  margin: 10px 80px;
-  padding: 20px;
-}
 
-.content a {
-  margin-top: 20px;
-  text-decoration: none;
-}
 
 footer {
   display: block;
